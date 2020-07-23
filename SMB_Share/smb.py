@@ -1,4 +1,5 @@
 ### smb共享版
+### 说明文件：https://epoches.cn/document/smb_share_manual.pdf
 
 import os
 import sys
