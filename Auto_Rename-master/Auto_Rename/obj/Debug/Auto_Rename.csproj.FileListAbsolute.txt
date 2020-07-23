@@ -1,0 +1,6 @@
+D:\代码\Auto_Rename\Auto_Rename\bin\Debug\Auto_Rename.exe
+D:\代码\Auto_Rename\Auto_Rename\bin\Debug\Auto_Rename.pdb
+D:\代码\Auto_Rename\Auto_Rename\obj\Debug\Auto_Rename.csprojAssemblyReference.cache
+D:\代码\Auto_Rename\Auto_Rename\obj\Debug\Auto_Rename.csproj.CoreCompileInputs.cache
+D:\代码\Auto_Rename\Auto_Rename\obj\Debug\Auto_Rename.exe
+D:\代码\Auto_Rename\Auto_Rename\obj\Debug\Auto_Rename.pdb
